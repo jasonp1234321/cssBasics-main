@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+  }
+th{
+    background-color:#427fef;
+    color: white;
+    padding: 8px;
+    border-color: black;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: #c4dcf3;
+    padding: 8px;
+  }
+  /*half an hour and the hardest part was figuring out to put the collapse in css*/
